@@ -23,10 +23,10 @@ git config --global user.email "NewEmaiil"
 1. Create branch for task.
    git checkout -b feature-T43255
 2. Commit changes to branch but not push your branch to the remote server.
-3. Rebase your branch to the local master (dev or the main branch for development)
-   git rebase master
-4. Switch to the master branch
-   git checkout master
+3. Rebase your branch to the local main (dev or the main branch for development)
+   git rebase main
+4. Switch to the main branch
+   git checkout main
 5. Pull the last changes from the server
    git pull
 6. Merge changes from local branch.
