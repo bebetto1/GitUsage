@@ -37,4 +37,5 @@ git config --global user.email "NewEmaiil"
    git checkout main
 9. Delete task local branch
    git branch -d feature-T43255
-
+10. Delete remote branch
+    git push origin -d feature-TPullRequestTest1
