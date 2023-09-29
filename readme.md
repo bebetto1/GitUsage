@@ -33,3 +33,8 @@ git config --global user.email "NewEmaiil"
    git merge --ff-only feature-T43255
 7. Push changes to the remote server.
    git push
+8. Switch to main branch
+   git checkout main
+9. Delete task local branch
+   git branch -d feature-T43255
+
