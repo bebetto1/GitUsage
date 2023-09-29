@@ -8,3 +8,12 @@
    git commit -m "Added readme file"
 6. Push files to the repository:
    git push
+
+-----------------------------Change global name and email------------------
+
+1. See current name and email:
+   git config --global user.email
+   git config --global user.email
+
+git config --global user.name "NewName"
+git config --global user.email "NewEmaiil"
