@@ -3,3 +3,4 @@ Programmer2: Some changes a1
 Programmer1: Added changes b1
 Programmer2: has done task1
 Programmer1: has done task1
+Programmer AndreyD: made some changes and send pull request.
